@@ -15,7 +15,7 @@
             alt="follow on Linkendin"></a>
 <p/>
 
-
+![](https://avatars.githubusercontent.com/u/53277790?v=4
 
 
 PhD student in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the research field of Decision Making. Master in Structures and Materials at PEC / COPPE / UFRJ (2018-2020). Graduated in Civil Engineering at UFPA (2012-2017). He has experience in data engineering, computational methods inspired by nature, optimization and machine learning.
