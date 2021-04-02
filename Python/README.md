@@ -16,7 +16,7 @@ Geoprocessing is the computerized processing of georeferenced data. The geoproce
  ![](https://miro.medium.com/max/1440/1*dCLAwcPZhvOa8a9SCiHisA.gif)
 
 
-## NLP :speaking_head:
+## Natural Language Processing :speaking_head: :speech_balloon:
 Natural Language Processing (NLP) is a subarea of Artificial Intelligence (AI) that studies the capacity and limitations of a machine in the sense of human language. The purpose of NLP is to provide computers with an ability to understand and compose texts. "Understanding" a text means recognizing the context, performing syntactic, semantic, lexical and morphological analysis, creating summaries, extracting information, interpreting the senses, analyzing the feelings and even learning concepts from the processed texts.
 
 ![](https://miro.medium.com/max/5760/1*cZntEBYe3q7FckCsIwmJgg.png)
