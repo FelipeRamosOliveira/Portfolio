@@ -8,7 +8,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portfolio-Python/pulls)
 
 
-## About Me <p>
+## About Me 
+<p>
     <a href="https://www.linkedin.com/in/felipe-ramos-oliveira/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="follow on Linkendin"></a>
