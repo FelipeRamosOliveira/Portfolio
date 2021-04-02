@@ -34,3 +34,11 @@ In the world of data analysis, it becomes increasingly necessary to step out of 
 If your profile has an inclination to code, now is the time to get your hands dirty, in a simple way, believe me, coding has never been easier. If you are already convinced to give Python a chance, check out the advantages of this choice:
 
 The Python language is a high level, open source, very active online community, easy to learn, imperative, interpreted by scripts, object oriented, functional, with strong typing and dynamics. Programming in Python is like writing a letter to the computer, a letter in English, it is worth mentioning.
+
+# PYTHON :snake:
+
+Unlike many engineering-oriented software, MATLAB does not have an engineering or specific area. Any engineering (including any area of science) can use it.
+
+It is even difficult to talk about all the functions of MATLAB because, in addition to the basic functions, you can still develop its functions and programs. In addition to software, it is a programming language. It is normal to hear someone (usually an engineer) say that they program in MATLAB. So, the use is quite different.
+
+MATLAB is usually one of the first options for engineers who need to solve a problem / function, perform a simulation, do a statistical test or visualize a result. Other areas of science, on the other hand, usually try other software / languages first
