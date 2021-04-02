@@ -25,7 +25,7 @@ PhD student in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the resear
 The purpose of this repository is to present applications of different programming languages in problems of optimization, data science and machine learning.
 
 
-# PYTHON :snake:
+# MATLAB :triangular_ruler:
 
 Anyone who has ever encountered a data analysis problem that a marking tool has not completely or efficiently solved the problem with, raises their hand there :raised_hand: .
 
@@ -35,7 +35,7 @@ If your profile has an inclination to code, now is the time to get your hands di
 
 The Python language is a high level, open source, very active online community, easy to learn, imperative, interpreted by scripts, object oriented, functional, with strong typing and dynamics. Programming in Python is like writing a letter to the computer, a letter in English, it is worth mentioning.
 
-# PYTHON :snake:
+# MATLAB :snake:
 
 Unlike many engineering-oriented software, MATLAB does not have an engineering or specific area. Any engineering (including any area of science) can use it.
 
