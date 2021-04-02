@@ -1,44 +1,17 @@
-# CODE PORTIFOLIO :computer: 
+# Geoprocessing 
+* Geoprocessing is the computerized processing of georeferenced data. The geoprocessing allows the extraticotion of cartographic information (maps, topographic maps and plans) and information that can be associated with the coordinates of these maps, maps or plans.
+
+ ![](https://miro.medium.com/max/1440/1*dCLAwcPZhvOa8a9SCiHisA.gif)
 
 
+# NLP
 
-[![GitHub issues](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio-Python.svg)](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio-Python.svg)
-[![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portfolio-Python.svg)](https://github.com/FelipeRamosOliveira/Portfolio-Python/network)
-[![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portfolio-Python.svg)](https://github.com/FelipeRamosOliveira/Portfolio-Python/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portfolio-Python/pulls)
+* Natural Language Processing (NLP) is a subarea of Artificial Intelligence (AI) that studies the capacity and limitations of a machine in the sense of human language. The purpose of NLP is to provide computers with an ability to understand and compose texts. "Understanding" a text means recognizing the context, performing syntactic, semantic, lexical and morphological analysis, creating summaries, extracting information, interpreting the senses, analyzing the feelings and even learning concepts from the processed texts.
 
-## About me 
+![](https://miro.medium.com/max/5760/1*cZntEBYe3q7FckCsIwmJgg.png)
 
-<p>
-    <a href="https://www.linkedin.com/in/felipe-ramos-oliveira/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="follow on Linkendin"></a>
-<p/>
+# Computer Vision 
+* Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to understand and automate tasks that the human visual system can do. 
+Computer vision tasks include methods for acquiring, processing, analyzing and understanding digital images, and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, eg in the forms of decisions. 
 
-
-
-
-PhD student in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the research field of Decision Making. Master in Structures and Materials at PEC / COPPE / UFRJ (2018-2020). Graduated in Civil Engineering at UFPA (2012-2017). He has experience in data engineering, computational methods inspired by nature, optimization and machine learning.
-
-## About the repository
-
-The purpose of this repository is to present applications of different programming languages in problems of optimization, data science and machine learning.
-
-
-
-# PYTHON :snake:
-Anyone who has ever encountered a data analysis problem that a marking tool has not completely or efficiently solved the problem with, raises their hand there :raised_hand: .
-
-In the world of data analysis, it becomes increasingly necessary to step out of your comfort zone, and look for other tools that are useful for the universe of a data scientist. Fortunately in this scenario Python is a good option.
-
-If your profile has an inclination to code, now is the time to get your hands dirty, in a simple way, believe me, coding has never been easier. If you are already convinced to give Python a chance, check out the advantages of this choice:
-
-The Python language is a high level, open source, very active online community, easy to learn, imperative, interpreted by scripts, object oriented, functional, with strong typing and dynamics. Programming in Python is like writing a letter to the computer, a letter in English, it is worth mentioning.
-
-
-# MATLAB :triangular_ruler:
-Unlike many engineering-oriented software, MATLAB does not have an engineering or specific area. Any engineering (including any area of science) can use it.
-
-It is even difficult to talk about all the functions of MATLAB because, in addition to the basic functions, you can still develop its functions and programs. In addition to software, it is a programming language. It is normal to hear someone (usually an engineer) say that they program in MATLAB. So, the use is quite different.
-
-MATLAB is usually one of the first options for engineers who need to solve a problem / function, perform a simulation, do a statistical test or visualize a result. Other areas of science, on the other hand, usually try other software / languages first
+![](https://cdn-images-1.medium.com/max/600/1*bXJwwApuno7RQsJd8zqMtA.gif)
