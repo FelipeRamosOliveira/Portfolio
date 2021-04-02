@@ -19,7 +19,7 @@ PhD student in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the resear
 
 ## About the repository
 
-The purpose of this repository is to present a portfolio of different programming languages applied to optimization, data science and machine learning problems.
+The purpose of this repository is to present applications of different programming languages in problems of optimization, data science and machine learning.
 
 
 # :snake: PYTHON
