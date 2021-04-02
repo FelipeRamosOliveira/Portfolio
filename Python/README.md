@@ -5,6 +5,7 @@ Machine learning (ML) is the study of computer algorithms that improve automatic
 A subset of machine learning is closely related to computational statistics, which focuses on making predictions using computers; but not all machine learning is statistical learning. The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. Data mining is a related field of study, focusing on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive analytics.
 
 # Major Machine Learning Applications :books:
+Machine learning has the following major applications
 
 ## Computer Vision :robot:
 Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to understand and automate tasks that the human visual system can do. 
