@@ -1,4 +1,4 @@
-# Fashion MNIST
+# Fashion MNIST :shirt: :jeans:
 
 
 We will use a data set, a data set called Fashion-MNIST, organized with images of several different clothes, and it was made by the research group called Zalando Research. In addition, we will make our code with a Google Special library on Deep Neural Networks called TensorGlow, as our lowest level layer for communicating with a machine.
