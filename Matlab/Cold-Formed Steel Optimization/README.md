@@ -1,4 +1,4 @@
-![](https://upload.wikimedia.org/wikipedia/pt/1/1e/Logo_COPPE_-_UFRJ.jpg)
+![](https://lh3.googleusercontent.com/proxy/wi9NzKnw35VAxHjKsKyWfmAq8JDH7yid45SYDU7viqDDcuVlCqq9wepZippEVqgJIjcqv7sS7Fd1OGe8wTsIf4tdXtZoovn8wjFPx2P79O7BfPAU)
 
 # Abstract
 ## OPTIMIZATION OF COLD-FORMED STEEL LIPPED CHANNEL COLUMNS WITH MANUFACTURING CONSTRAINTS USING METAHEURISTIC ALGORITHMS
@@ -10,18 +10,4 @@ The present repository has the follwing filles:
 * The CFS optimizer code (in portuguse *Otimizador*, all content is also in portuguese)
 * The trained GPR predictor (all content is in portuguese)
 * The raw results (in portuguse *Resultado bruto*, all content is also in portuguese)
-* Pair plot PNG image and IPYNB notebook
 
-# -
-
-# Resumo
-## OTIMIZAÇÃO VIA ALGORITMOS META-HEURÍSTICOS DE PERFIS U ENRIJECIDOS FORMADOS A FRIO SUBMETIDOS À COMPRESSÃO AXIAL E CONSIDERANDO RESTRIÇÕES DE FABRICAÇÃO 
-
-Perfis de aço formado a frio (PFF) podem ser otimizadas para aumentar sua capacidade de carga, levando a sistemas estruturais mais eficientes e econômicos. Esta dissertação tem como objetivo fornecer uma metodologia prática que permita o desenvolvimento de seções otimizadas de colunas de PFF tipo U enrijecido com resistência à compressão máxima para aplicações práticas. As seções otimizadas foram projetadas para atender aos requisitos geométricos da NBR 14762, além de diversas restrições práticas e de fabricação. A resistência à compressão das seções é determinada com base no Método de Resistência Direta (MRD) adotado na norma Brasileira, enquanto o processo de otimização é realizado usando quatro algoritmos meta-heurísticos distintos (Algoritmos Genéticos, Evolução Diferencial, Otimização de Enxame de Partículas e Colônia Artificial de Abelhas). No total, cinco protótipos U enrijecido diferentes são considerados no processo de otimização. As cargas críticas de flambagem, exigidas pelo MRD, são determinadas usando o Método de Faixas Finitas (MFF) e técnicas de aprendizado de máquina. Os resultados apresentam seções otimizadas com resistência à compressão até 217% maior que o protótipo com a mesma quantidade de material.
-
-## Arquivos do repositório
-Este repositório contem os seguintes arquivos:
-* O otimizador de PFF
-* O preditor GPR treinado
-* O resultado bruto 
-* *Pair plot* nas versões PNG e IPYNB
