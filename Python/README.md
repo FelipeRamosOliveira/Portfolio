@@ -11,7 +11,9 @@ Machine learning has the following major applications
 Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to understand and automate tasks that the human visual system can do. 
 Computer vision tasks include methods for acquiring, processing, analyzing and understanding digital images, and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, eg in the forms of decisions. 
 
+<p align="center">
 ![](https://cdn-images-1.medium.com/max/600/1*bXJwwApuno7RQsJd8zqMtA.gif)
+</p>
 
 ## Geoprocessing :earth_americas:
 Geoprocessing is the computerized processing of georeferenced data. The geoprocessing allows the extraticotion of cartographic information (maps, topographic maps and plans) and information that can be associated with the coordinates of these maps, maps or plans.
