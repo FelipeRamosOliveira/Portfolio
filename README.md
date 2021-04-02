@@ -11,7 +11,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portfolio-Python.svg)](https://github.com/FelipeRamosOliveira/Portfolio-Python/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portfolio-Python/pulls)
 
----
 
 ## About Me 
 
