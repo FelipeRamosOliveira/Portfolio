@@ -25,6 +25,7 @@ The purpose of this repository is to present applications of different programmi
 
 
 # PYTHON :snake:
+![](https://miro.medium.com/max/3000/1*n3TBO5i8hrYAujlhiHoE_w.gif)
 Anyone who has ever encountered a data analysis problem that a marking tool has not completely or efficiently solved the problem with, raises their hand there :raised_hand: .
 
 In the world of data analysis, it becomes increasingly necessary to step out of your comfort zone, and look for other tools that are useful for the universe of a data scientist. Fortunately in this scenario Python is a good option.
