@@ -21,6 +21,7 @@ PhD student in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the resear
 ## About the repository
 
 The purpose of this repository is to present applications of different programming languages in problems of optimization, data science and machine learning.
+
 **Disclaimer :** The author of this repository is Brazilian, so some of the codes and considerations may be in Portuguese.
 
 
