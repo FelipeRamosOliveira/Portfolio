@@ -1,5 +1,5 @@
 # Nature-Inspired Algorithms :ant:
-![](https://thumbs.gfycat.com/LonelySentimentalCaracal-size_restricted.gif)
+![](https://miro.medium.com/max/2400/1*hpnzy5dNYtp1qC1MsN9cGQ.gif)
 Nature-inspired algorithms also know as bio-inspired computing, short for biologically inspired computing, is a field of study which seeks to solve computer science problems using models of biology. It relates to connectionism, social behavior, and emergence. Within computer science, bio-inspired computing relates to artificial intelligence and machine learning. Bio-inspired computing is a major subset of natural computation.
 
 This folder contains the following files:
