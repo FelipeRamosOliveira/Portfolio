@@ -2,10 +2,10 @@
 
 
 
-[![GitHub issues](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)
-[![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portfolio.svg)](https://github.com/FelipeRamosOliveira/Portfolio/network)
-[![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portfolio.svg)](https://github.com/FelipeRamosOliveira/Portfolio/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portfolio/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/FelipeRamosOliveira/Portifolio.svg)](https://img.shields.io/github/issues/FelipeRamosOliveira/Portifolio.svg)
+[![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portifolio.svg)](https://github.com/FelipeRamosOliveira/Portifolio/network)
+[![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portifolio.svg)](https://github.com/FelipeRamosOliveira/Portifolio/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portifolio/pulls)
 
 ## About Felipe 
 
