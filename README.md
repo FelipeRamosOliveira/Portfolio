@@ -13,7 +13,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portifolio.svg)](https://github.com/FelipeRamosOliveira/Portifolio/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portifolio/pulls)
 
-## About me 
+## [About me](www.linkedin.com/in/felipe-ramos-oliveira) 
 
 
 
