@@ -8,6 +8,8 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portifolio.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
+[![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portifolio.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
+
 ## About me
 <p>
     <a href="https://www.linkedin.com/in/felipe-ramos-oliveira/">
