@@ -1,4 +1,4 @@
-# CODE PORTIFOLIO :computer: 
+# CODE PORTFOLIO :computer: 
 
 
 [![GitHub followers](https://img.shields.io/github/followers/FelipeRamosOliveira.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/Naereen?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portifolio.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/FelipeRamosOliveira/Portifolio.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)  [![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portifolio.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/) 
