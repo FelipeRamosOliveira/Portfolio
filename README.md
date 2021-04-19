@@ -1,5 +1,5 @@
 # CODE PORTFOLIO :computer: 
-![](https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif)
+![](https://media-exp1.licdn.com/dms/image/C4D22AQEO86jIUvg-wg/feedshare-shrink_2048_1536/0/1578057907330?e=1620259200&v=beta&t=nDLuyUrI8FBGYY69rInDDVU8bfTBE27d92jAVoql9Go)
 
 [![GitHub followers](https://img.shields.io/github/followers/FelipeRamosOliveira.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/Naereen?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portfolio.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/FelipeRamosOliveira/Portfolio.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)  [![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portfolio.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/) 
 
