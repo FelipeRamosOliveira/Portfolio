@@ -11,7 +11,6 @@
 
 ![](https://media-exp1.licdn.com/dms/image/C4D22AQEO86jIUvg-wg/feedshare-shrink_2048_1536/0/1578057907330?e=1620259200&v=beta&t=nDLuyUrI8FBGYY69rInDDVU8bfTBE27d92jAVoql9Go)
 
-___
 The purpose of this repository is to present applications of different programming languages in problems of optimization, data science and machine learning.
 
 **Disclaimer :** The author of this repository is Brazilian, so some of the codes and considerations may be in Portuguese.
