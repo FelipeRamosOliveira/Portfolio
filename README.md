@@ -9,6 +9,8 @@
 
 [![GitHub watchers](https://img.shields.io/github/watchers/FelipeRamosOliveira/Portifolio.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 
+[![GitHub followers](https://img.shields.io/github/followers/FelipeRamosOliveira.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+
 ## About me
 <p>
     <a href="https://www.linkedin.com/in/felipe-ramos-oliveira/">
