@@ -1,9 +1,9 @@
-[![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portifolio.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) [![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portifolio.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
-
 # CODE PORTIFOLIO :computer: 
 [![GitHub issues](https://img.shields.io/github/issues/FelipeRamosOliveira/Portifolio.svg)](https://img.shields.io/github/issues/FelipeRamosOliveira/Portifolio.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portifolio/pulls)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
+[![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portifolio.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) | [![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portifolio.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
 
 ## About me
 <p>
