@@ -10,6 +10,7 @@
     <a href="https://www.linkedin.com/in/felipe-ramos-oliveira/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="follow on Linkendin"></a>
+    [![Python 3.8+](https://img.shields.io/badge/python-3.6+-yellow.svg)](https://www.python.org/downloads/release/python-360/)
 <p/>
 
 
