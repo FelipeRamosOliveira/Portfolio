@@ -1,10 +1,10 @@
 # CODE PORTFOLIO :computer: 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/FelipeRamosOliveira.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/Naereen?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portifolio.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/FelipeRamosOliveira/Portifolio.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)  [![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portifolio.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/) 
+[![GitHub followers](https://img.shields.io/github/followers/FelipeRamosOliveira.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/Naereen?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portfolio.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/FelipeRamosOliveira/Portfolio.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)  [![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portfolio.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/) 
 
-[![GitHub issues](https://img.shields.io/github/issues/FelipeRamosOliveira/Portifolio.svg)](https://img.shields.io/github/issues/FelipeRamosOliveira/Portifolio.svg)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portifolio/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)](https://img.shields.io/github/issues/FelipeRamosOliveira/Portifolio.svg)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portfolio/pulls)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-yellow.svg)](https://www.python.org/downloads/release/python-360/)
 [![View Private Cody Leaderboard on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/70197-private-cody-leaderboard)
