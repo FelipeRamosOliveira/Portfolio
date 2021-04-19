@@ -24,6 +24,13 @@ The purpose of this repository is to present applications of different programmi
 
 
 # [PYTHON](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python)  :snake:
+
+<p>
+<a href="https://code.visualstudio.com/">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+            alt="follow on Linkendin"></a>
+<p/>
+
 Anyone who has ever encountered a data analysis problem that a marking tool has not completely or efficiently solved the problem with, raises their hand there :raised_hand: .
 
 In the world of data analysis, it becomes increasingly necessary to step out of your comfort zone, and look for other tools that are useful for the universe of a data scientist. Fortunately in this scenario Python is a good option.
