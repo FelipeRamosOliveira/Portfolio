@@ -1,8 +1,8 @@
+# MACHINE LEARNING 🧠
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![Python 3.8+](https://img.shields.io/badge/python-3.6+-yellow.svg)](https://www.python.org/downloads/release/python-360/)
 
-# MACHINE LEARNING 🧠
 ![](https://miro.medium.com/max/3000/1*n3TBO5i8hrYAujlhiHoE_w.gif)
 
 Machine learning (ML) is the study of computer algorithms that improve automatically through experience and by the use of data. It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so. Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.
