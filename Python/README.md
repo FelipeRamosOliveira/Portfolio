@@ -14,13 +14,13 @@ Machine learning (ML) is the study of computer algorithms that improve automatic
 A subset of machine learning is closely related to computational statistics, which focuses on making predictions using computers; but not all machine learning is statistical learning. The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. In its application across business problems, machine learning is also referred to as predictive analytics.
 Machine learning has the following major applications
 
-### Computer Vision :robot:
+### [Computer Vision](https://github.com/FelipeRamosOliveira/Portfolio/tree/main/Python/Computer%20Vision) :robot:
 Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to understand and automate tasks that the human visual system can do. 
 Computer vision tasks include methods for acquiring, processing, analyzing and understanding digital images, and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, eg in the forms of decisions. 
 
 ![](https://cdn-images-1.medium.com/max/600/1*bXJwwApuno7RQsJd8zqMtA.gif)
 
-### Geoprocessing :earth_americas:
+### [Geoprocessing](https://github.com/FelipeRamosOliveira/Portfolio/tree/main/Python/Geoprocessing) :earth_americas:
 Geoprocessing is the computerized processing of georeferenced data. The geoprocessing allows the extraticotion of cartographic information (maps, topographic maps and plans) and information that can be associated with the coordinates of these maps, maps or plans.
 
  ![](https://miro.medium.com/max/1440/1*dCLAwcPZhvOa8a9SCiHisA.gif)
