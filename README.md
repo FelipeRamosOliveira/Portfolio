@@ -1,4 +1,9 @@
 # CODE PORTIFOLIO :computer: 
+
+The purpose of this repository is to present applications of different programming languages in problems of optimization, data science and machine learning.
+
+**Disclaimer :** The author of this repository is Brazilian, so some of the codes and considerations may be in Portuguese.
+
 [![GitHub followers](https://img.shields.io/github/followers/FelipeRamosOliveira.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/Naereen?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portifolio.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/FelipeRamosOliveira/Portifolio.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)  [![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portifolio.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/) 
 
 [![GitHub issues](https://img.shields.io/github/issues/FelipeRamosOliveira/Portifolio.svg)](https://img.shields.io/github/issues/FelipeRamosOliveira/Portifolio.svg)
@@ -19,11 +24,9 @@
 
 Felipe is a PhD student in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the research field of Decision Making. Master in Structures and Materials at PEC / COPPE / UFRJ (2018-2020). Graduated in Civil Engineering at UFPA (2012-2017). He has experience in data engineering, computational methods inspired by nature, optimization and machine learning.
 
-## About the repository
 
-The purpose of this repository is to present applications of different programming languages in problems of optimization, data science and machine learning.
 
-**Disclaimer :** The author of this repository is Brazilian, so some of the codes and considerations may be in Portuguese.
+
 
 
 
