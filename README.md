@@ -11,6 +11,10 @@
 
 ![](https://media-exp1.licdn.com/dms/image/C4D22AQEO86jIUvg-wg/feedshare-shrink_2048_1536/0/1578057907330?e=1620259200&v=beta&t=nDLuyUrI8FBGYY69rInDDVU8bfTBE27d92jAVoql9Go)
 
+___
+The purpose of this repository is to present applications of different programming languages in problems of optimization, data science and machine learning.
+
+**Disclaimer :** The author of this repository is Brazilian, so some of the codes and considerations may be in Portuguese.
 
 # [ABOUT ME](https://www.linkedin.com/in/felipe-ramos-oliveira/)
 <p>
@@ -21,11 +25,6 @@
 
 
 Felipe is a PhD student in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the research field of Decision Making. Master in Structures and Materials at PEC / COPPE / UFRJ (2018-2020). Graduated in Civil Engineering at UFPA (2012-2017). He has experience in data engineering, computational methods inspired by nature, optimization and machine learning.
-___
-The purpose of this repository is to present applications of different programming languages in problems of optimization, data science and machine learning.
-
-**Disclaimer :** The author of this repository is Brazilian, so some of the codes and considerations may be in Portuguese.
-
 
 # [PYTHON](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python)  :snake:
 
