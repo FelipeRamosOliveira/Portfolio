@@ -30,7 +30,6 @@ The purpose of this repository is to present applications of different programmi
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
             alt="follow on Linkendin"></a>
 <p/>
-[![Python 3.8+](https://img.shields.io/badge/python-3.6+-yellow.svg)](https://www.python.org/downloads/release/python-360/)
 
 Anyone who has ever encountered a data analysis problem that a marking tool has not completely or efficiently solved the problem with, raises their hand there :raised_hand: .
 
