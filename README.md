@@ -4,6 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portifolio.svg)](https://github.com/FelipeRamosOliveira/Portifolio/network)
 [![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portifolio.svg)](https://github.com/FelipeRamosOliveira/Portifolio/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portifolio/pulls)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 ## About me
 <p>
