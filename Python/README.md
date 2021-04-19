@@ -2,6 +2,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![Python 3.8+](https://img.shields.io/badge/python-3.6+-yellow.svg)](https://www.python.org/downloads/release/python-360/)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
 ![](https://miro.medium.com/max/3000/1*n3TBO5i8hrYAujlhiHoE_w.gif)
 
