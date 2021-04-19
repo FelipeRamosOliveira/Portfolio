@@ -12,7 +12,7 @@
 ![](https://media-exp1.licdn.com/dms/image/C4D22AQEO86jIUvg-wg/feedshare-shrink_2048_1536/0/1578057907330?e=1620259200&v=beta&t=nDLuyUrI8FBGYY69rInDDVU8bfTBE27d92jAVoql9Go)
 
 
-## About me 
+## [ABOUT ME](https://www.linkedin.com/in/felipe-ramos-oliveira/)
 <p>
     <a href="https://www.linkedin.com/in/felipe-ramos-oliveira/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
