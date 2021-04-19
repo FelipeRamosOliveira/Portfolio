@@ -1,7 +1,5 @@
 # Nature-Inspired Algorithms :ant:
 
-[![View Private Cody Leaderboard on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/70197-private-cody-leaderboard)
-![](https://miro.medium.com/max/3600/1*zZnmRHZqv5-0dheeh0GNdg.gif)
 Nature-inspired algorithms also know as bio-inspired computing, short for biologically inspired computing, is a field of study which seeks to solve computer science problems using models of biology. It relates to connectionism, social behavior, and emergence. Within computer science, bio-inspired computing relates to artificial intelligence and machine learning. Bio-inspired computing is a major subset of natural computation.
 
 This folder contains the following files:
