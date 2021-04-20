@@ -2,8 +2,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/FelipeRamosOliveira.svg?style=social&label=Followers)](https://github.com/Naereen?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portfolio.svg?style=social&label=Star)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) 
-[![GitHub watchers](https://img.shields.io/github/watchers/FelipeRamosOliveira/Portfolio.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portfolio.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/) 
+[![GitHub watchers](https://img.shields.io/github/watchers/FelipeRamosOliveira/Portfolio.svg?style=social&label=Watch)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portfolio.svg?style=social&label=Fork)](https://GitHub.com/Naereen/StrapDown.js/network/) 
 
 [![GitHub issues](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portfolio/pulls)
