@@ -5,8 +5,8 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/FelipeRamosOliveira/Portfolio.svg?style=social&label=Watch)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portfolio.svg?style=social&label=Fork)](https://GitHub.com/Naereen/StrapDown.js/network/) 
 
-[![GitHub issues](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portfolio/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-yellow.svg)](https://www.python.org/downloads/release/python-360/)
 [![View Private Cody Leaderboard on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/)
