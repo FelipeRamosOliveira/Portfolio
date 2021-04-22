@@ -25,6 +25,9 @@ The purpose of this repository is to present applications of different programmi
             alt="follow on Linkendin"></a>
 <p/>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="felipe-ramos-oliveira" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/felipe-ramos-oliveira/en-us?trk=profile-badge">Felipe Oliveira (韩梦飞)</a></div>
+              
+
 
 Felipe is a PhD student in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the research field of Decision Making. Master in Structures and Materials at PEC / COPPE / UFRJ (2018-2020). Graduated in Civil Engineering at UFPA (2012-2017). He has experience in data engineering, computational methods inspired by nature, optimization and machine learning.
 
