@@ -5,8 +5,9 @@
 
 # Requisitos básicos
 1. Conta no Gogoogle (Colab)
-2. Conhecimento básico de programção
-3. Conta no GitHub
+2. Conhecimento básico de programção em Python
+3. Conta no GitHub (opcional)
+
 # Referências
 
 [Link original](https://www.tableau.com/pt-br/learn/articles/natural-language-processing-books)
