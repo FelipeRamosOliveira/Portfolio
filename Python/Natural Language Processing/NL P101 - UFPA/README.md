@@ -4,8 +4,8 @@
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
 # Requisitos básicos
-1. Conta no Gogoogle
-2. Conhecimento baásico de programção
+1. Conta no Gogoogle (Colab)
+2. Conhecimento básico de programção
 3. Conta no GitHub
 # Referências
 
