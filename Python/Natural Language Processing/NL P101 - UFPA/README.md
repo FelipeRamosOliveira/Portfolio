@@ -3,6 +3,10 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.6+-yellow.svg)](https://www.python.org/downloads/release/python-360/)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
+# Requisitos básicos
+1. Conta no Gogoogle
+2. Conhecimento baásico de programção
+3. Conta no GitHub
 # Referências
 
 [Link original](https://www.tableau.com/pt-br/learn/articles/natural-language-processing-books)
