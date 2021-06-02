@@ -1,7 +1,7 @@
 # environment variables
 *.env
 #paths
-Python/Building and Consuming APIs/Django 101/venv
-Python/Building and Consuming APIs/Django 101/db.sqlite3
-Python/Building and Consuming APIs/Django Rest Framework/venv
-Python/Building and Consuming APIs/Django Rest Framework/readme.txt
+Python/Rest Api Design/Django 101/
+Python/Rest Api Design/Django Rest Framework/venv
+
+
