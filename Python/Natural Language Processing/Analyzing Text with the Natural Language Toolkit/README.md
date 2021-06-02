@@ -1,4 +1,4 @@
-# (SOLVED) Natural Language Processing with Python: Analyzing Text with the Natural Language Toolki
+# Solved - Natural Language Processing with Python: Analyzing Text with the Natural Language Toolki
  Steve Bird, Ewan Klein,Edward Loper
  
 ![](https://images-na.ssl-images-amazon.com/images/I/51JZNVJ-1PL.jpg)
