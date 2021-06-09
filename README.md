@@ -11,7 +11,7 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-green.svg)](https://www.python.org/downloads/release/python-360/)
 [![Sql](https://img.shields.io/badge/MySql-8.0-blue.svg)](https://www.mysql.com/)
 [![View Private Cody Leaderboard on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/)
-[![Info](https://img.shields.io/badge/Project-Info-blue?style=flat-square&logo=data:image/svg%2bxml)](https://github.com/users/FelipeRamosOliveira/projects/3)
+[![Info](https://img.shields.io/badge/Project-Info-blue?logo=data:image/svg%2bxml)](https://github.com/users/FelipeRamosOliveira/projects/3)
 
 ![](https://allhacked.com/up/2019/03/hello-world.gif)
 
