@@ -4,18 +4,8 @@
   <a href="https://instagram.com/fp.oliv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-# Hi, I'm Felipe ! :wave:
 
-I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the Decision Making research area. I'm a huge machine learning enthusiast and have experience with AI, natural language processing, nature-inspired algorithms, and optimization.
  
-### Stats
- <div>
-  <a href="https://github.com/FelipeRamosOliveira">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=graywhiteinclude_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=16&theme=graywhite"/>
-<div>
-  
-
  ### Skills 
   <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -53,11 +43,15 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 The purpose of this repository is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
 
 # [ABOUT ME](https://www.linkedin.com/in/felipe-ramos-oliveira/)
-<p>
-    <a href="https://www.linkedin.com/in/felipe-ramos-oliveira/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="follow on Linkendin"></a>
-<p/>
+
+I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the Decision Making research area. I'm a huge machine learning enthusiast and have experience with AI, natural language processing, nature-inspired algorithms, and optimization.
+ 
+### Stats
+ <div>
+  <a href="https://github.com/FelipeRamosOliveira">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=graywhiteinclude_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=16&theme=graywhite"/>
+<div>
 
 
 Felipe is a PhD student in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the research field of Decision Making. Master in Structures and Materials at PEC / COPPE / UFRJ (2018-2020). Graduated in Civil Engineering at UFPA (2012-2017). He has experience in data engineering, computational methods inspired by nature, optimization and machine learning.
