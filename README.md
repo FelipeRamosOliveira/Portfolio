@@ -7,7 +7,7 @@
 
 [![Info](https://img.shields.io/badge/Project-Info-brightgreen?logo=data:image/svg%2bxml)](https://github.com/users/FelipeRamosOliveira/projects/3)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portfolio/pulls)
-[![GitHub issues](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio-brightgreen.svg)](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)
+[![GitHub issues](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio -brightgreen.svg)](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown-brightgreen.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![Sql](https://img.shields.io/badge/MySql-8.0-blue.svg)](https://www.mysql.com/)
