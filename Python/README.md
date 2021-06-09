@@ -1,5 +1,5 @@
 # DATA SCIENCE 
-[![Python 3.8+](https://img.shields.io/badge/python-3.6+-yellow.svg)](https://www.python.org/downloads/release/python-360/)
+[![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
 Data science is the term used to determine a combination of various machine learning tools, algorithms and principles responsible for discovering patterns and insights from raw data.
