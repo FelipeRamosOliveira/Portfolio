@@ -20,16 +20,6 @@ The purpose of this repository is to present applications of different programmi
 
 # [ABOUT ME](https://www.linkedin.com/in/felipe-ramos-oliveira/)
 
-I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the Decision Making research area. I'm a huge machine learning enthusiast and have experience with AI, natural language processing, nature-inspired algorithms, and optimization.
- 
-### Stats
- <div>
-  <a href="https://github.com/FelipeRamosOliveira">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=graywhiteinclude_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=16&theme=graywhite"/>
-<div>
-
-
 Felipe is a PhD student in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the research field of Decision Making. Master in Structures and Materials at PEC / COPPE / UFRJ (2018-2020). Graduated in Civil Engineering at UFPA (2012-2017). He has experience in data engineering, computational methods inspired by nature, optimization and machine learning.
 
 # [PYTHON](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python)  :snake:
