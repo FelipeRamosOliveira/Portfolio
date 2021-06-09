@@ -1,0 +1,40 @@
+'O contador do SQL começa do 0
+
+
+'
+# Comandos 
+
+1. Usar um banco de dados especifico (use)
+	Ex:use sucos_vendas
+	
+2. Selecionar todas colunas de uma tabela (select *from) 
+    Ex:select *from tabela_de_produtos;
+	
+3.	Seleção condicional (where, or , and )
+	Ex: select *from tabela_de_produtos where EMBALAGEM='PET' or EMBALAGEM='Garrafa';
+	
+4.	Valores unicos 'unique' (select distinct)
+	Ex:select distinct EMBALAGEM, TAMANHO from tabela_de_produtos
+	
+5.	Limitar exibição (limit)
+	Ex:select * from tabela_de_produtos limit 5;
+	
+6.	Ordenar exibição (order by , order by ... desc ) -> Crescente por padrão
+	Ex:select * from tabela_de_produtos order by PRECO_DE_LISTA;
+
+7.	Agrupar resultados (group by),somar (sum) e apelidar coluna (as)
+	Ex: select ESTADO, sum (LIMITE_DE_CREDITO) as LIMITE_TOTAL from tabela_de_clientes group by ESTADO;
+
+8. Maximo (max)
+	Ex: SELECT EMBALAGEM, MAX(PRECO_DE_LISTA) AS MAIOR_PRECO FROM tabela_de_Produtos GROUP BY EMBALAGEM;
+
+9. Contador (count)
+	Ex:SELECT EMBALAGEM, COUNT(*) AS CONTADOR FROM tabela_de_produtos GROUP BY EMBALAGEM;
+
+10. Filtrar (having)
+	Ex:SELECT ESTADO, SUM(LIMITE_DE_CREDITO) AS SOMA_LIMITE FROM tabela_de_clientes
+	   GROUP BY ESTADO HAVING SUM(LIMITE_DE_CREDITO) > 900000;
+	  
+11.	Função se 'if' ('case')
+	Ex:
+	
