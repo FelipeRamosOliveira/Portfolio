@@ -1,3 +1,8 @@
+[![GitHub followers](https://img.shields.io/github/followers/FelipeRamosOliveira.svg?style=social&label=Followers)](https://github.com/Naereen?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portfolio.svg?style=social&label=Star)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) 
+[![GitHub watchers](https://img.shields.io/github/watchers/FelipeRamosOliveira/Portfolio.svg?style=social&label=Watch)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portfolio.svg?style=social&label=Fork)](https://GitHub.com/Naereen/StrapDown.js/network/) 
+
 [![Info](https://img.shields.io/badge/Project-Info-brightgreen?logo=data:image/svg%2bxml)](https://github.com/users/FelipeRamosOliveira/projects/3)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portfolio/pulls)
 [![GitHub issues](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)
@@ -7,13 +12,6 @@
 [![View Private Cody Leaderboard on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/)
 
 # CODE PORTFOLIO :computer: 
-
-[![GitHub followers](https://img.shields.io/github/followers/FelipeRamosOliveira.svg?style=social&label=Followers)](https://github.com/Naereen?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portfolio.svg?style=social&label=Star)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) 
-[![GitHub watchers](https://img.shields.io/github/watchers/FelipeRamosOliveira/Portfolio.svg?style=social&label=Watch)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portfolio.svg?style=social&label=Fork)](https://GitHub.com/Naereen/StrapDown.js/network/) 
-
-
 
 ![](https://allhacked.com/up/2019/03/hello-world.gif)
 
