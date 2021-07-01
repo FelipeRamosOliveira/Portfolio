@@ -32,6 +32,7 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
   <summary>DATA SCIENCE PORTFOLIO</summary>
   
 # DATA SCIENCE PORTFOLIO :computer:
+  
 [![Info](https://img.shields.io/badge/Project-Info-brightgreen?logo=data:image/svg%2bxml)](https://github.com/users/FelipeRamosOliveira/projects/3)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portfolio/pulls)
 [![GitHub issues](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)
@@ -46,8 +47,6 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 
 The purpose of this repository is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
   
-# CONTENTS
-
 <details>
   <summary>SQL</summary>
  
@@ -80,8 +79,9 @@ Unlike many engineering-oriented software, MATLAB does not have an engineering o
 It is even difficult to talk about all the functions of MATLAB because, in addition to the basic functions, you can still develop its functions and programs. In addition to software, it is a programming language. It is normal to hear someone (usually an engineer) say that they program in MATLAB. So, the use is quite different.
 
 MATLAB is usually one of the first options for engineers who need to solve a problem / function, perform a simulation, do a statistical test or visualize a result. Other areas of science, on the other hand, usually try other software / languages first.
+
 </details>  
-  
+
 </details>
 
 
