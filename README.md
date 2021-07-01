@@ -47,8 +47,7 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 
 The purpose of this repository is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
   
-<details>
-  <summary>PYTHON</summary>
+
  
 # [PYTHON](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python)  :snake:
 
@@ -59,18 +58,16 @@ In the world of data analysis, it becomes increasingly necessary to step out of 
 If your profile has an inclination to code, now is the time to get your hands dirty, in a simple way, believe me, coding has never been easier. If you are already convinced to give Python a chance, check out the advantages of this choice:
 
 The Python language is a high level, open source, very active online community, easy to learn, imperative, interpreted by scripts, object oriented, functional, with strong typing and dynamics. Programming in Python is like writing a letter to the computer, a letter in English, it is worth mentioning.
-</details>
 
-<details>
-  <summary>SQL</summary>
+
+
  
 # [SQL](https://github.com/FelipeRamosOliveira/Portfolio/tree/main/Sql) :bar_chart:
 
 SQL stands for “Structured Query Language”, or “Structured Query Language”, in Portuguese. Briefly, it is a programming language for dealing with relational (table-based) databases. It was created so that multiple developers could access and modify a company's data simultaneously, in an uncomplicated and unified way.SQL programming can be used to analyze or perform tasks on tables, mainly through the following commands: insert, search, update and delete. However, that doesn't mean that SQL can't do more advanced things, like writing queries (query commands) with multiple information.
-</details>
 
-<details>
-  <summary>MATLAB</summary>
+
+
  
 # [MATLAB](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python) :triangular_ruler:
 
@@ -80,7 +77,7 @@ It is even difficult to talk about all the functions of MATLAB because, in addit
 
 MATLAB is usually one of the first options for engineers who need to solve a problem / function, perform a simulation, do a statistical test or visualize a result. Other areas of science, on the other hand, usually try other software / languages first.
 
-</details>  
+
 
 
 
