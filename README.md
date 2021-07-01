@@ -29,7 +29,8 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </details>
   
-
+<details>
+  <summary>ABOUT ME</summary>
   
 # DATA SCIENCE PORTFOLIO :computer:
   
@@ -78,8 +79,7 @@ It is even difficult to talk about all the functions of MATLAB because, in addit
 MATLAB is usually one of the first options for engineers who need to solve a problem / function, perform a simulation, do a statistical test or visualize a result. Other areas of science, on the other hand, usually try other software / languages first.
 
 
-
-
+</details>
 
 
 
