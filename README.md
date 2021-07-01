@@ -29,7 +29,8 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </details>
   
-
+<details>
+  <summary>PYTHON</summary>
   
 # DATA SCIENCE PORTFOLIO :computer:
   
@@ -83,7 +84,7 @@ MATLAB is usually one of the first options for engineers who need to solve a pro
 </details>  
 
 
-
+</details>
 
 
 
