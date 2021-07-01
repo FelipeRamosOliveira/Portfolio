@@ -1,16 +1,9 @@
-<div> 
-   <a href="https://www.linkedin.com/in/felipe-ramos-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto: fp.ramos.oliviera@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/fp.oliv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-
-
 [![GitHub followers](https://img.shields.io/github/followers/FelipeRamosOliveira.svg?style=social&label=Followers)](https://github.com/Naereen?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/FelipeRamosOliveira/Portfolio.svg?style=social&label=Star)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) 
 [![GitHub watchers](https://img.shields.io/github/watchers/FelipeRamosOliveira/Portfolio.svg?style=social&label=Watch)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portfolio.svg?style=social&label=Fork)](https://GitHub.com/Naereen/StrapDown.js/network/) 
 
-# About me
+#  Hi, I'm Felipe ! :wave:
 
 I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the Decision Making research area. I'm a huge machine learning enthusiast and have experience with AI, natural language processing, nature-inspired algorithms, and optimization.
  
