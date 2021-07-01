@@ -3,8 +3,28 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/FelipeRamosOliveira/Portfolio.svg?style=social&label=Watch)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 [![GitHub forks](https://img.shields.io/github/forks/FelipeRamosOliveira/Portfolio.svg?style=social&label=Fork)](https://GitHub.com/Naereen/StrapDown.js/network/) 
 
+
+ 
+# DATA SCIENCE PORTFOLIO :computer:
+[![Info](https://img.shields.io/badge/Project-Info-brightgreen?logo=data:image/svg%2bxml)](https://github.com/users/FelipeRamosOliveira/projects/3)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portfolio/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Sql](https://img.shields.io/badge/MySql-8.0-blue.svg)](https://www.mysql.com/)
+[![View Private Cody Leaderboard on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/)
+
+![](https://allhacked.com/up/2019/03/hello-world.gif)
+
+***Disclaimer :** The author of this repository is Brazilian, so some of the codes and considerations may be in Portuguese.*
+
+The purpose of this repository is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
+
+
+# CONTENTS
+
 <details>
-  <summary>About me</summary>
+  <summary>ABOUT ME</summary>
  
 #  Hi, I'm Felipe ! :wave:
 
@@ -33,27 +53,7 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </details>
- 
-# About this portfolio :computer:
-[![Info](https://img.shields.io/badge/Project-Info-brightgreen?logo=data:image/svg%2bxml)](https://github.com/users/FelipeRamosOliveira/projects/3)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portfolio/pulls)
-[![GitHub issues](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)](https://img.shields.io/github/issues/FelipeRamosOliveira/Portfolio.svg)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-360/)
-[![Sql](https://img.shields.io/badge/MySql-8.0-blue.svg)](https://www.mysql.com/)
-[![View Private Cody Leaderboard on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/)
-
-![](https://allhacked.com/up/2019/03/hello-world.gif)
-
-***Disclaimer :** The author of this repository is Brazilian, so some of the codes and considerations may be in Portuguese.*
-
-The purpose of this repository is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
-
-
-
-
-
-# CONTENTS
+  
 
 <details>
   <summary>PYTHON</summary>
