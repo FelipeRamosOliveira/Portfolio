@@ -60,7 +60,7 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
   
 ###  Data Science 🔬
   
-![](https://static.wixstatic.com/media/b44604_fd39c470a1124eb5ba6a8a1c2c786e27~mv2.gif)
+![](https://institute.careerguide.com/wp-content/uploads/2020/10/7a2fc27b966a50792117d375a24bb71e.gif)
   
 The purpose of this section is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
 
