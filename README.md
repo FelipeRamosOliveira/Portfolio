@@ -10,6 +10,8 @@
 
 ![](https://allhacked.com/up/2019/03/hello-world.gif)
 
+***Disclaimer :** The author of this repository is Brazilian, so some of the codes and considerations may be in Portuguese**
+***Note :** Clicking on the hyperlink will redirect you to a special part of the repository*
 
 
 <!--...........................................-->
