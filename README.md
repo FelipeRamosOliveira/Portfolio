@@ -19,7 +19,7 @@ The purpose of this repository is to present applications from different program
 ***Note <sup>2</sup> :** Clicking on a hyperlink ([in blue]()) will redirect you to specific parts of this repository*<br>
 
 
-# Summary
+# 📖 Summary
 
 <!--...........................................-->
 <details>
