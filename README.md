@@ -64,13 +64,14 @@ If your profile has an inclination to code, now is the time to get your hands di
 
 The Python language is a high level, open source, very active online community, easy to learn, imperative, interpreted by scripts, object oriented, functional, with strong typing and dynamics. Programming in Python is like writing a letter to the computer, a letter in English, it is worth mentioning.
 
- 
+<details>
+  <summary>ABOUT ME</summary>  
+  
 # [SQL](https://github.com/FelipeRamosOliveira/Portfolio/tree/main/Sql) :bar_chart:
 
 SQL stands for “Structured Query Language”, or “Structured Query Language”, in Portuguese. Briefly, it is a programming language for dealing with relational (table-based) databases. It was created so that multiple developers could access and modify a company's data simultaneously, in an uncomplicated and unified way.SQL programming can be used to analyze or perform tasks on tables, mainly through the following commands: insert, search, update and delete. However, that doesn't mean that SQL can't do more advanced things, like writing queries (query commands) with multiple information.
 
-<details>
-  <summary>ABOUT ME</summary> 
+
   
 # [MATLAB](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python) :triangular_ruler:
 
