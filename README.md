@@ -20,10 +20,6 @@ The purpose of this repository is to present applications from different program
 
 # 📖 Summary
 
-***Note <sup>1</sup> :** By clicking on the arrows, the sections will be expanded.*<br>
-***Note <sup>2</sup> :** Clicking on a hyperlink ([in blue]()) will redirect you to specific parts of this repository*<br>
-
-
 <details>
   <summary>ABOUT ME</summary>
  
@@ -100,3 +96,5 @@ MATLAB is usually one of the first options for engineers who need to solve a pro
 
 </details>
  
+***Note <sup>1</sup> :**  By clicking on the arrows, the sections will be expanded.*<br>
+***Note <sup>2</sup> :**  Clicking on a hyperlink ([in blue]()) will redirect you to specific parts of this repository*<br>
