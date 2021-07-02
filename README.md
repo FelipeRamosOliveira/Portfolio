@@ -14,12 +14,19 @@
 [![Sql](https://img.shields.io/badge/MySql-8.0-blue.svg)](https://www.mysql.com/)
 [![View Private Cody Leaderboard on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/)
 
+<!--...........................................-->
+
+<!--...........................................-->
+
 ![](https://allhacked.com/up/2019/03/hello-world.gif)
 
 ***Disclaimer :** The author of this repository is Brazilian, so some of the codes and considerations may be in Portuguese.*
 
 The purpose of this repository is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
 
+<!--...........................................-->
+
+<!--...........................................-->
 <details>
   <summary>ABOUT ME</summary>
  
@@ -50,6 +57,9 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
  
 </details>
 
+<!--...........................................-->
+
+<!--...........................................-->
 
 
 <details>
