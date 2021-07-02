@@ -61,7 +61,7 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 
 <!--...........................................-->
 <details>
-  <summary>SQL</summary>
+  <summary>DATA SCIENCE PORTFOLIO</summary>
 
 <details>
   <summary>SQL</summary>
