@@ -8,6 +8,7 @@
 
 ![](https://allhacked.com/up/2019/03/hello-world.gif)
 
+<!--.................................................-->
 # Summary
 
 <details>
@@ -39,14 +40,10 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </details>
   
-
+<!--.................................................-->
   
 # DATA SCIENCE PORTFOLIO :computer:
   
-
-
-
-
 ***Disclaimer :** The author of this repository is Brazilian, so some of the codes and considerations may be in Portuguese.*
 
 The purpose of this repository is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
