@@ -11,7 +11,7 @@
 
 ***Disclaimer :** The author of this repository is Brazilian, so some of the codes and considerations may be in Portuguese*
 
-***Note :** Clicking on the hyperlink will redirect you to a special part of the repository*
+***Note :** Clicking on a hyperlink will redirect you to a specific part of this repository*
 
 
 <!--...........................................-->
