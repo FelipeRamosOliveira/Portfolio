@@ -44,7 +44,9 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 <!--.................................................-->
   
 # DATA SCIENCE PORTFOLIO :computer:
-  
+
+<details>
+  <summary>ABOUT ME</summary> 
 
 
 The purpose of this repository is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
@@ -75,7 +77,7 @@ It is even difficult to talk about all the functions of MATLAB because, in addit
 
 MATLAB is usually one of the first options for engineers who need to solve a problem / function, perform a simulation, do a statistical test or visualize a result. Other areas of science, on the other hand, usually try other software / languages first.
 
-
+</details>
 
 
 
