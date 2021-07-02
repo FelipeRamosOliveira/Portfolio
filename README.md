@@ -1,4 +1,3 @@
-***Disclaimer :** The author of this repository is Brazilian, so some of the codes and considerations may be in Portuguese.*
 
 [![Info](https://img.shields.io/badge/Project-Info-brightgreen?logo=data:image/svg%2bxml)](https://github.com/users/FelipeRamosOliveira/projects/3)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FelipeRamosOliveira/Portfolio/pulls)
