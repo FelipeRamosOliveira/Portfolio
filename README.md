@@ -71,7 +71,9 @@ Anyone who has ever encountered a data analysis problem that a marking tool has 
 SQL stands for “Structured Query Language”, or “Structured Query Language”, in Portuguese. Briefly, it is a programming language for dealing with relational (table-based) databases. It was created so that multiple developers could access and modify a company's data simultaneously, in an uncomplicated and unified way.SQL programming can be used to analyze or perform tasks on tables, mainly through the following commands: insert, search, update and delete. However, that doesn't mean that SQL can't do more advanced things, like writing queries (query commands) with multiple information.
 
 <details>
-  <summary>CONTENTS</summary>  
+  <summary>CONTENTS</summary> 
+  
+SQL stands for “Structured Query Language”, or “Structured Query Language”, in Portuguese. Briefly, it is a programming language for dealing with relational (table-based) databases. It was created so that multiple developers could access and modify a company's data simultaneously, in an uncomplicated and unified way.SQL programming can be used to analyze or perform tasks on tables, mainly through the following commands: insert, search, update and delete. However, that doesn't mean that SQL can't do more advanced things, like writing queries (query commands) with multiple information.
   
 # [MATLAB](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python) :triangular_ruler:
 
