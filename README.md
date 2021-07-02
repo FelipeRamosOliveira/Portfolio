@@ -60,7 +60,8 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 <!--...........................................-->
 
 <!--...........................................-->
-
+<details>
+  <summary>SQL</summary>
 
 <details>
   <summary>SQL</summary>
@@ -96,6 +97,6 @@ It is even difficult to talk about all the functions of MATLAB because, in addit
 MATLAB is usually one of the first options for engineers who need to solve a problem / function, perform a simulation, do a statistical test or visualize a result. Other areas of science, on the other hand, usually try other software / languages first.
 </details>
 
-
+</details>
  
 
