@@ -7,6 +7,7 @@
 [![View Private Cody Leaderboard on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/)
 
 ***Disclaimer :** The author of this repository is Brazilian, so some of the codes and considerations may be in Portuguese.*
+<br>
 ![](https://allhacked.com/up/2019/03/hello-world.gif)
 
 <!--...........................................-->
