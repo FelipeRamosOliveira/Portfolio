@@ -13,7 +13,7 @@
 ***Note <sup>1</sup> :** By clicking on the arrows, the sections will be expanded.*
 ***Note <sup>2</sup> :** Clicking on a hyperlink (in blue) will redirect you to specific parts of this repository*
 
-* Summary
+# Summary
 
 <!--...........................................-->
 <details>
