@@ -7,8 +7,8 @@
   [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-360/)
   [![Sql](https://img.shields.io/badge/MySql-8.0-blue.svg)](https://www.mysql.com/)
   [![View Private Cody Leaderboard on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/)
-  
-  <\div>
+
+</div>
   
 ![](https://allhacked.com/up/2019/03/hello-world.gif)
 
