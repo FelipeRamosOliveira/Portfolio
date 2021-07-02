@@ -101,6 +101,7 @@ SQL stands for “Structured Query Language”, or “Structured Query Language�
 </details>
  
 <!--...........................................-->
+---  
 <!--...........................................-->   
    
 <details>
@@ -128,6 +129,7 @@ MATLAB is usually one of the first options for engineers who need to solve a pro
 
 </details>
 </details>
+   
 ---  
 
 
