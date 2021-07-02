@@ -65,7 +65,7 @@ The purpose of this repository is to present applications of different programmi
 <details>
   <summary>SQL</summary>
  
-# [PYTHON](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python)  :snake:
+## [PYTHON](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python)  :snake:
 
 Anyone who has ever encountered a data analysis problem that a marking tool has not completely or efficiently solved the problem with, raises their hand there :raised_hand: .
 
@@ -79,7 +79,7 @@ The Python language is a high level, open source, very active online community, 
 <details>
   <summary>SQL</summary>
  
-# [SQL](https://github.com/FelipeRamosOliveira/Portfolio/tree/main/Sql) :bar_chart:
+## [SQL](https://github.com/FelipeRamosOliveira/Portfolio/tree/main/Sql) :bar_chart:
 
 SQL stands for “Structured Query Language”, or “Structured Query Language”, in Portuguese. Briefly, it is a programming language for dealing with relational (table-based) databases. It was created so that multiple developers could access and modify a company's data simultaneously, in an uncomplicated and unified way.SQL programming can be used to analyze or perform tasks on tables, mainly through the following commands: insert, search, update and delete. However, that doesn't mean that SQL can't do more advanced things, like writing queries (query commands) with multiple information.
 </details>
@@ -87,7 +87,7 @@ SQL stands for “Structured Query Language”, or “Structured Query Language�
 <details>
   <summary>MATLAB</summary>
  
-# [MATLAB](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python) :triangular_ruler:
+## [MATLAB](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python) :triangular_ruler:
 
 Unlike many engineering-oriented software, MATLAB does not have an engineering or specific area. Any engineering (including any area of science) can use it.
 
