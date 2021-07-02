@@ -57,6 +57,11 @@ Anyone who has ever encountered a data analysis problem that a marking tool has 
 # DATA SCIENCE PORTFOLIO :computer:
 
 The purpose of this repository is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
+
+# PYTHON
+
+Anyone who has ever encountered a data analysis problem that a marking tool has not completely or efficiently solved the problem with, raises their hand there :raised_hand:.In the world of data analysis, it becomes increasingly necessary to step out of your comfort zone, and look for other tools that are useful for the universe of a data scientist. Fortunately in this scenario Python is a good option. If your profile has an inclination to code, now is the time to get your hands dirty, in a simple way, believe me, coding has never been easier. If you are already convinced to give Python a chance, check out the advantages of this choice: The Python language is a high level, open source, very active online community, easy to learn, imperative, interpreted by scripts, object oriented, functional, with strong typing and dynamics. Programming in Python is like writing a letter to the computer, a letter in English, it is worth mentioning.  
+  
   
 # [SQL](https://github.com/FelipeRamosOliveira/Portfolio/tree/main/Sql) :bar_chart:
 
