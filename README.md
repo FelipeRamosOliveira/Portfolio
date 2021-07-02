@@ -32,8 +32,7 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=8&theme=graywhite"/>
 
 </div>
-    
-  
+</details>  
 <!--.................................................-->
 
 
