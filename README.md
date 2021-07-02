@@ -17,6 +17,9 @@
 
 ***Note <sup>2</sup> :** Clicking on a hyperlink (in blue) will redirect you to specific parts of this repository*
 
+The purpose of this repository is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
+
+
 # Summary
 
 <!--...........................................-->
