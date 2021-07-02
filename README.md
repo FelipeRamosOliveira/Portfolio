@@ -74,7 +74,7 @@ The purpose of this section is to present applications of different programming 
 
 
 
-#### [PYTHON](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python)  :snake:
+#### [Python](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python)  :snake:
 
 Anyone who has ever encountered a data analysis problem that a marking tool has not completely or efficiently solved the problem with, raises their hand there :raised_hand: .
 
@@ -119,7 +119,7 @@ In engineering, administration, logistics, transport, economics, biology or othe
 <details>
   <summary>MATLAB</summary>
   
-#### [MATLAB](https://github.com/FelipeRamosOliveira/Portfolio/tree/main/Matlab) :triangular_ruler:
+#### [Matlab](https://github.com/FelipeRamosOliveira/Portfolio/tree/main/Matlab) :triangular_ruler:
 
 Unlike many engineering-oriented software, MATLAB does not have an engineering or specific area. Any engineering (including any area of science) can use it.
 
