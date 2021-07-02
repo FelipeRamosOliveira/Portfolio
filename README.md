@@ -52,8 +52,7 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 
 The purpose of this repository is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
   
-<details>
-  <summary>ABOUT ME</summary> 
+
  
 # [PYTHON](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python)  :snake:
 
@@ -70,7 +69,9 @@ The Python language is a high level, open source, very active online community, 
 
 SQL stands for “Structured Query Language”, or “Structured Query Language”, in Portuguese. Briefly, it is a programming language for dealing with relational (table-based) databases. It was created so that multiple developers could access and modify a company's data simultaneously, in an uncomplicated and unified way.SQL programming can be used to analyze or perform tasks on tables, mainly through the following commands: insert, search, update and delete. However, that doesn't mean that SQL can't do more advanced things, like writing queries (query commands) with multiple information.
 
- 
+<details>
+  <summary>ABOUT ME</summary> 
+  
 # [MATLAB](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python) :triangular_ruler:
 
 Unlike many engineering-oriented software, MATLAB does not have an engineering or specific area. Any engineering (including any area of science) can use it.
