@@ -53,7 +53,6 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 </details>
 
 <!--...........................................-->
-
 <!--...........................................-->
 <details>
   <summary>DATA SCIENCE </summary>
@@ -95,6 +94,9 @@ SQL stands for “Structured Query Language”, or “Structured Query Language�
  ---
   
 </details>
+ 
+<!--...........................................-->
+<!--...........................................-->   
    
 <details>
   <summary>OPTIMIZATION</summary>
