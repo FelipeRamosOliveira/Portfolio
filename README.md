@@ -24,8 +24,6 @@ The purpose of this repository is to present applications from different program
 
 <details>
   <summary>ABOUT ME</summary>
-
----
   
 ### Hi, I'm Felipe ! :wave:
 I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the Decision Making research area. I'm a huge machine learning enthusiast and have experience with AI, natural language processing, nature-inspired algorithms, and optimization.
@@ -51,12 +49,10 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
- ---
-
 </details>
 
 <!--...........................................-->
+---   
 <!--...........................................-->
    
 <details>
