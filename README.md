@@ -58,7 +58,7 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 <details>
   <summary>CONTENTS</summary> 
   
-# DATA SCIENCE PORTFOLIO :computer:
+# DATA SCIENCE PORTFOLIO
 
 The purpose of this repository is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
 
