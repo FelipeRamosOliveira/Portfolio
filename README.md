@@ -28,12 +28,12 @@ The purpose of this repository is to present applications from different program
 ### Hi, I'm Felipe ! :wave:
 I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the Decision Making research area. I'm a huge machine learning enthusiast and have experience with AI, natural language processing, nature-inspired algorithms, and optimization.
  
-### Stats
+#### Stats
  <div style="display: inline_block">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=graywhiteinclude_all_commits=true&count_private=true"/> 
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=8&theme=graywhite"/>
 
-### Skills
+#### Skills
 <div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -65,7 +65,7 @@ The purpose of this section is to present applications of different programming 
 <details>
   <summary>PYTHON</summary>
  
-### [PYTHON](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python)  :snake:
+#### [PYTHON](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python)  :snake:
 
 Anyone who has ever encountered a data analysis problem that a marking tool has not completely or efficiently solved the problem with, raises their hand there :raised_hand: .
 
@@ -79,7 +79,7 @@ The Python language is a high level, open source, very active online community, 
 <details>
   <summary>SQL</summary>
  
-### [SQL](https://github.com/FelipeRamosOliveira/Portfolio/tree/main/Sql) :bar_chart:
+#### [SQL](https://github.com/FelipeRamosOliveira/Portfolio/tree/main/Sql) :bar_chart:
 
 SQL stands for “Structured Query Language”, or “Structured Query Language”, in Portuguese. Briefly, it is a programming language for dealing with relational (table-based) databases. It was created so that multiple developers could access and modify a company's data simultaneously, in an uncomplicated and unified way.SQL programming can be used to analyze or perform tasks on tables, mainly through the following commands: insert, search, update and delete. However, that doesn't mean that SQL can't do more advanced things, like writing queries (query commands) with multiple information.
 </details>
@@ -87,7 +87,7 @@ SQL stands for “Structured Query Language”, or “Structured Query Language�
 <details>
   <summary>MATLAB</summary>
  
-### [MATLAB](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python) :triangular_ruler:
+#### [MATLAB](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python) :triangular_ruler:
 
 Unlike many engineering-oriented software, MATLAB does not have an engineering or specific area. Any engineering (including any area of science) can use it.
 
