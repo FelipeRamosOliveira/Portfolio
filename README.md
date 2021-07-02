@@ -66,7 +66,9 @@ The purpose of this section is to present applications of different programming 
 
 <details>
   <summary>PYTHON</summary>
- 
+
+---
+
 #### [PYTHON](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python)  :snake:
 
 Anyone who has ever encountered a data analysis problem that a marking tool has not completely or efficiently solved the problem with, raises their hand there :raised_hand: .
