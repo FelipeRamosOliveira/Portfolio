@@ -20,7 +20,7 @@
 <details>
   <summary>ABOUT ME</summary>
  
-#  Hi, I'm Felipe ! :wave:
+##  Hi, I'm Felipe ! :wave:
 I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the Decision Making research area. I'm a huge machine learning enthusiast and have experience with AI, natural language processing, nature-inspired algorithms, and optimization.
  
 ### Stats
