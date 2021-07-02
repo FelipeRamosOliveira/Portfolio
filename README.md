@@ -52,8 +52,6 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 
 The purpose of this repository is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
   
-<details>
-  <summary>CONTENTS</summary> 
  
 # [PYTHON](https://github.com/FelipeRamosOliveira/Portfolio/tree/main/Sql)  :snake:
 
