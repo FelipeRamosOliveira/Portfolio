@@ -49,8 +49,7 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
---- 
+ 
 </details>
 
 <!--...........................................-->
@@ -86,6 +85,7 @@ The Python language is a high level, open source, very active online community, 
 
 SQL stands for “Structured Query Language”, or “Structured Query Language”, in Portuguese. Briefly, it is a programming language for dealing with relational (table-based) databases. It was created so that multiple developers could access and modify a company's data simultaneously, in an uncomplicated and unified way.SQL programming can be used to analyze or perform tasks on tables, mainly through the following commands: insert, search, update and delete. However, that doesn't mean that SQL can't do more advanced things, like writing queries (query commands) with multiple information.
 </details>  
+---
 </details>
    
 <details>
