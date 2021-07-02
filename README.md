@@ -10,10 +10,10 @@
 ![](https://allhacked.com/up/2019/03/hello-world.gif)
 
 ***Disclaimer :** The author of this repository is Brazilian, so some of the codes and considerations may be in Portuguese*
+***Note <sup>1</sup> :** By clicking on the arrows, the sections will be expanded.*
+***Note <sup>2</sup> :** Clicking on a hyperlink (in blue) will redirect you to specific parts of this repository*
 
-***Note <sup>1 </sup> :** Clicking on a hyperlink will redirect you to a specific part of this repository*
-
----
+* Summary
 
 <!--...........................................-->
 <details>
