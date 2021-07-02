@@ -52,7 +52,8 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 
 The purpose of this repository is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
   
-
+<details>
+  <summary>ABOUT ME</summary> 
  
 # [PYTHON](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python)  :snake:
 
@@ -64,8 +65,7 @@ If your profile has an inclination to code, now is the time to get your hands di
 
 The Python language is a high level, open source, very active online community, easy to learn, imperative, interpreted by scripts, object oriented, functional, with strong typing and dynamics. Programming in Python is like writing a letter to the computer, a letter in English, it is worth mentioning.
 
-<details>
-  <summary>ABOUT ME</summary>  
+ 
   
 # [SQL](https://github.com/FelipeRamosOliveira/Portfolio/tree/main/Sql) :bar_chart:
 
