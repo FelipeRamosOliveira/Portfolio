@@ -60,7 +60,7 @@ MATLAB is usually one of the first options for engineers who need to solve a pro
 <details>
   <summary>ABOUT ME</summary>
  
-#  Hi, I'm Felipe ! :wave:
+##  Hi, I'm Felipe ! :wave:
 I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the Decision Making research area. I'm a huge machine learning enthusiast and have experience with AI, natural language processing, nature-inspired algorithms, and optimization.
  
 ### Stats
@@ -69,8 +69,6 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
      
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=8&theme=graywhite"/>
 
-</details>
- 
 ### Skills
 <div>
 <div style="display: inline_block"><br>
@@ -87,3 +85,7 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <\div>
+ 
+</details>
+ 
+
