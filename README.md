@@ -91,7 +91,8 @@ SQL stands for “Structured Query Language”, or “Structured Query Language�
   <summary>OPTIMIZATION</summary>
   
  ### Optimization ➕ ➖
- [](https://camo.githubusercontent.com/8ea43a1f70612fe0be12346955ed5befd10c6bbdf2e850d04fe3bf865d25445d/68747470733a2f2f707669676965722e6769746875622e696f2f6d656469612f696d672f70617274312f6772616469656e745f64657363656e742e676966)
+ ![](https://camo.githubusercontent.com/8ea43a1f70612fe0be12346955ed5befd10c6bbdf2e850d04fe3bf865d25445d/68747470733a2f2f707669676965722e6769746875622e696f2f6d656469612f696d672f70617274312f6772616469656e745f64657363656e742e676966)
+  
 In mathematics, the term optimization refers to the study of problems that seek to minimize or maximize a function by systematically choosing the values of real or integer variables within a viable set.
 
 In engineering, administration, logistics, transport, economics, biology or other science problems, when it is possible to build mathematical models that are quite representative of the respective dynamic systems under study, it is possible to apply the mathematical optimization techniques to maximize or minimize a previously defined function as a performance index (ID) or performance index (IP), in order to find an "optimal solution" to the problem, that is, one that results in the best possible performance of the system, according to this previously defined performance criterion (ID). 
