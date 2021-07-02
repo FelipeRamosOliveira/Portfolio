@@ -47,13 +47,13 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
   
 # DATA SCIENCE PORTFOLIO :computer:
 
-<details>
-  <summary>ABOUT ME</summary> 
+
 
 
 The purpose of this repository is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
   
-
+<details>
+  <summary>ABOUT ME</summary> 
  
 # [PYTHON](https://github.com/FelipeRamosOliveira/Portifolio/tree/main/Python)  :snake:
 
