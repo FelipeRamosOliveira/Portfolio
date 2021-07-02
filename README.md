@@ -36,8 +36,7 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
   
 <!--.................................................-->
 
-nyone who has ever encountered a data analysis problem that a marking tool has not completely or efficiently solved the problem with, raises their hand there :raised_hand:.In the world of data analysis, it becomes increasingly necessary to step out of your comfort zone, and look for other tools that are useful for the universe of a data scientist. Fortunate
-    
+
 <!--.................................................-->
 <div>
   
