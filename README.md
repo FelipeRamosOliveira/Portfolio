@@ -9,6 +9,7 @@
 ![](https://allhacked.com/up/2019/03/hello-world.gif)
 
 ***Disclaimer :** The author of this repository is Brazilian, so some of the codes and considerations may be in Portuguese.*
+
 The purpose of this repository is to present applications of different programming languages in problems of optimization, data science , data pipelines and machine learning.
 
 <!--...........................................-->
