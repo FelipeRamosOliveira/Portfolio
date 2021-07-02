@@ -23,7 +23,6 @@ The purpose of this repository is to present applications from different program
 ***Note <sup>2</sup> :**  Clicking on a hyperlink ([in blue]()) will redirect you to specific parts of this repository*<br><br>
 
 <!--...........................................-->
----
 <!--...........................................-->
 
 <details>
@@ -112,9 +111,11 @@ SQL stands for “Structured Query Language”, or “Structured Query Language�
 In mathematics, the term optimization refers to the study of problems that seek to minimize or maximize a function by systematically choosing the values of real or integer variables within a viable set.
 
 In engineering, administration, logistics, transport, economics, biology or other science problems, when it is possible to build mathematical models that are quite representative of the respective dynamic systems under study, it is possible to apply the mathematical optimization techniques to maximize or minimize a previously defined function as a performance index or performance index, in order to find an "optimal solution" to the problem, that is, one that results in the best possible performance of the system, according to this previously defined performance criterion. 
-
+  
+<!--...........................................-->
 ---  
-
+<!--...........................................-->
+  
 <details>
   <summary>MATLAB</summary>
   
