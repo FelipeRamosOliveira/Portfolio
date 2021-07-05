@@ -57,7 +57,7 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 </details>
 
 <!--...........................................-->
----   
+
 <!--...........................................-->
    
 <details>
@@ -88,7 +88,7 @@ The Python language is a high level, open source, very active online community, 
   
 </details>
   
----
+
   
 <details>
   <summary>SQL</summary>
