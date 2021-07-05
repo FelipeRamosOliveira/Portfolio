@@ -28,7 +28,7 @@ The purpose of this repository is to present applications from different program
 <!--...........................................-->
 
 <details>
-  <summary>ABOUT ME</summary>
+  <summary>1. ABOUT ME</summary>
   
 ### Hi, I'm Felipe ! :wave:
 I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the Decision Making research area. I'm a huge machine learning enthusiast and have experience with AI, natural language processing, nature-inspired algorithms, and optimization.
@@ -61,7 +61,7 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
 <!--...........................................-->
    
 <details>
-  <summary>DATA SCIENCE </summary>
+  <summary>2. DATA SCIENCE </summary>
   
 ###  Data Science 🔬
   
@@ -105,7 +105,7 @@ SQL stands for “Structured Query Language”, or “Structured Query Language�
 <!--...........................................-->   
    
 <details>
-  <summary>OPTIMIZATION</summary>
+  <summary>3. OPTIMIZATION</summary>
   
  ### Optimization ➕ ➖
  ![](https://camo.githubusercontent.com/8ea43a1f70612fe0be12346955ed5befd10c6bbdf2e850d04fe3bf865d25445d/68747470733a2f2f707669676965722e6769746875622e696f2f6d656469612f696d672f70617274312f6772616469656e745f64657363656e742e676966)
