@@ -1,8 +1,8 @@
 # environment variables
 *.env
 #paths
-Python/Rest Api Design/Django 101/
-Python/Rest Api Design/Django Rest Framework/venv
-Python/Rest Api Design/Flask - Docker/venv
-Python/Rest Api Design/Flask - Docker/.vscode
+Python/Api With Python/Django 101/
+Python/Api With Python/Django Rest Framework/venv
+Python/Api With Python/Flask - Docker/venv
+Python/Api With Python/Flask - Docker/.vscode
 
